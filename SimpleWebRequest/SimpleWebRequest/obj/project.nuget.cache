@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jtTMvzrpXTjpWNuoHGhnDm4XBQcBN0B23mBar+Xa8HRXPN9nZWANKvTcJuunx0Fy/bPZe8Tv1UvsS1d0qw4G2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rob\\Documents\\CodingRepo\\UWE-DigitalSystemsProject\\SimpleWebRequest\\SimpleWebRequest\\SimpleWebRequest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rob\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

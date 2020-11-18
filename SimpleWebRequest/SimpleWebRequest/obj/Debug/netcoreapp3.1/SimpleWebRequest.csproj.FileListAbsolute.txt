@@ -1,0 +1,15 @@
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\bin\Debug\netcoreapp3.1\SimpleWebRequest.exe
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\bin\Debug\netcoreapp3.1\SimpleWebRequest.deps.json
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\bin\Debug\netcoreapp3.1\SimpleWebRequest.runtimeconfig.json
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\bin\Debug\netcoreapp3.1\SimpleWebRequest.runtimeconfig.dev.json
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\bin\Debug\netcoreapp3.1\SimpleWebRequest.dll
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\bin\Debug\netcoreapp3.1\SimpleWebRequest.pdb
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\obj\Debug\netcoreapp3.1\SimpleWebRequest.csprojAssemblyReference.cache
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\obj\Debug\netcoreapp3.1\SimpleWebRequest.AssemblyInfoInputs.cache
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\obj\Debug\netcoreapp3.1\SimpleWebRequest.AssemblyInfo.cs
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\obj\Debug\netcoreapp3.1\SimpleWebRequest.dll
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\obj\Debug\netcoreapp3.1\SimpleWebRequest.pdb
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\obj\Debug\netcoreapp3.1\SimpleWebRequest.genruntimeconfig.cache
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\obj\Debug\netcoreapp3.1\SimpleWebRequest.csproj.CoreCompileInputs.cache
+C:\Users\rob\Documents\CodingRepo\UWE-DigitalSystemsProject\SimpleWebRequest\SimpleWebRequest\obj\Debug\netcoreapp3.1\SimpleWebRequest.csproj.CopyComplete

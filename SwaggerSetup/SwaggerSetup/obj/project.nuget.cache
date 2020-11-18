@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "lMtfbq3e9KFFxY1FjtTJyJ5gqVewEl1hk6PEfFke3dEj3sRquTqYTgs0G9eBKKletWlkh0Otido2IssmOZPbhA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rob\\Documents\\CodingRepo\\UWE-DigitalSystemsProject\\SwaggerSetup\\SwaggerSetup\\SwaggerSetup.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rob\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\rob\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\rob\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\rob\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\rob\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\rob\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\rob\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "C:\\Users\\rob\\.nuget\\packages\\threefourteen.finnhub.client\\1.2.0\\threefourteen.finnhub.client.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
